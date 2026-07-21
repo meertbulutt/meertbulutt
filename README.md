@@ -18,4 +18,4 @@ I am a passionate developer focused on learning **Java** and building modern app
 
 ### 🤝 Connect with me
 
-📧 **Email:** [meertbulut@gmail.com](mailto:meertbulut@gmail.com)
+📧 **Email:** [meertbulut@gmail.com](mailto:meertbulutt@gmail.com)
